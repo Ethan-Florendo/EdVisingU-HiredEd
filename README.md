@@ -1,6 +1,10 @@
 # EdVisingU-HiredEd
 HireEd Labs is an automation hub powering EdVisingU’s multi-store AI education ecosystem. Built with n8n, APIs, and MailerLite, it connects Whop, Etsy, Gumroad, Skillplate, and live streams into a unified revenue engine—automating product creation, CRM onboarding, lead capture, KPI tracking, and student-built AI ventures.
 
+# Current Website
+https://id-preview--88c17d03-e9b6-4d70-9a28-5b30411533c5.lovable.app/
+Work on lovable
+
 # Sprint 1
 
 Sprint 1 mainly consisted of researching and coordinating with the other EdVisingU team and sponsor to determine the technical and platform infrastructure. We decided on Lovable as the foundation for development.
