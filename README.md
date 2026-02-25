@@ -5,8 +5,7 @@ HireEd Labs is an automation hub powering EdVisingU’s multi-store AI education
 https://id-preview--88c17d03-e9b6-4d70-9a28-5b30411533c5.lovable.app/
 Work on lovable
 
-# Sprint 1 - sponsor has asked to not post anything in github yet as our work will be linked to a co-related project (HireEd) that will be placed in github soon 
-
+# Sprint 1 - The sponsor has asked not to post anything on GitHub yet, as our work will be linked to a co-related project that will be placed on GitHub soon.
 Sprint 1 mainly consisted of researching and coordinating with the other EdVisingU team and sponsor to determine the technical and platform infrastructure. We decided on Lovable as the foundation for development.
 
 Research:
